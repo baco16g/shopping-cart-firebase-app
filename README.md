@@ -1,6 +1,6 @@
 ## Outline
 
-This repository is boilerplate for React Web.
+This repository is shopping cart app.
 
 ## Features
 
